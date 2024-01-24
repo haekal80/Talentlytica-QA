@@ -1,0 +1,1 @@
+# Talentlytica-QA
